@@ -4,3 +4,4 @@ Insert Account:
   fields:
   - Name
   - Is_Test__c
+  - Phone
