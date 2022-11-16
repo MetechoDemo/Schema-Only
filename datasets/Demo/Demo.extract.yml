@@ -1,0 +1,5 @@
+extract:
+  Account:
+    fields:
+    - Name
+    - Is_Test__c
